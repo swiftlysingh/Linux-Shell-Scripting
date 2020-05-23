@@ -40,3 +40,9 @@ then
 fi
 
 exit 0
+
+if [[ "$USER_NAME" != "${USER_NAME_TO_TEST_FOR}" ]]
+then
+  echo "Your username matches ${USER_NAME_TO_TEST_FOR}.Again!"
+  exit 1
+fi
