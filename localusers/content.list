@@ -1,0 +1,22 @@
+total 96
+-rw-r--r-- 1 vagrant vagrant     0 May 25 23:41 2
+-rw-r--r-- 1 vagrant vagrant  3020 May  8 04:22 Vagrantfile
+-rwxr-xr-x 1 vagrant vagrant   545 May 24 14:43 add-new-local-user.sh
+-rwxr-xr-x 1 vagrant vagrant   816 May 24 15:07 add-newer-local-user.sh
+drwxr-xr-x 1 vagrant vagrant   192 May 25 23:49 catvideos
+-rw-r--r-- 1 vagrant vagrant 10240 May 25 23:49 catvideos.tar
+-rw-r--r-- 1 vagrant vagrant     0 May 25 23:53 content.list
+-rw-r--r-- 1 vagrant vagrant  1952 May 24 14:58 logs
+-rwxr-xr-x 1 vagrant vagrant   221 May 23 09:46 luser-demo01.sh
+-rwxr-xr-x 1 vagrant vagrant   295 May 23 10:11 luser-demo02.sh
+-rwxr-xr-x 1 vagrant vagrant   848 May 23 10:38 luser-demo03.sh
+-rwxr-xr-x 1 vagrant vagrant   361 May 23 12:55 luser-demo04.sh
+-rwxr-xr-x 1 vagrant vagrant   434 May 24 06:01 luser-demo05.sh
+-rwxr-xr-x 1 vagrant vagrant   492 May 24 06:49 luser-demo06.sh
+-rwxr-xr-x 1 vagrant vagrant   337 May 24 07:22 luser-demo07.sh
+-rwxr-xr-x 1 vagrant vagrant   218 May 25 07:24 luser-demo09.sh
+-rwxr-xr-x 1 vagrant vagrant   513 May 25 09:26 luser-demo10.sh
+-rwxr-xr-x 1 vagrant vagrant   633 May 25 13:57 luser-demo11.sh
+-rwxr-xr-x 1 vagrant vagrant   153 May 23 13:09 luser-final.sh
+-rw-r--r-- 1 vagrant vagrant    44 May 24 08:07 password
+-rw-r--r-- 1 vagrant vagrant 20480 May 25 23:52 z
